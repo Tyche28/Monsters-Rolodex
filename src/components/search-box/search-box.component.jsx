@@ -1,4 +1,3 @@
-
 import '../search-box/search-box.styles.css';
 
 const SearchBox = ({className, placeholder, onChangeHandler}) => (

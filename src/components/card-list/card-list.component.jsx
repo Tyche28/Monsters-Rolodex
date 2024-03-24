@@ -1,5 +1,3 @@
-
-
 import Card from "../card/card.component";
 import '../card-list/card-list.styles.css';
 
